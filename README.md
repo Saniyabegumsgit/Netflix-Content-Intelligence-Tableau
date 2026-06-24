@@ -19,7 +19,7 @@ An interactive Business Intelligence (BI) application built in Tableau analyzing
 
 * **Layout & Container Design:** Built using a zero-overlap, tiled vertical container grid framework ensuring rigid UI scaling across diverse screen resolutions.
 * **Typography & Hierarchy:** Cleansed default database technical naming conventions (e.g., hiding raw `.csv` field expressions) and implemented a bold, distinct font size hierarchy.
-* **Brand-Aligned Palette:** Rejected software-default color schemas for an intentional, premium 2-color brand theme (Netflix Red `#E50914` vs. Dark Charcoal) for instantaneous cross-chart visual mapping.
+* **Brand-Aligned Palette:** * **High-Contrast Palette:** Rejected software-default colors for an intentional, high-contrast Red and Green theme to ensure instantaneous visual mapping and distinction across all four charts.
 * **Dashboard Interactivity:** Implemented dynamic country dropdown controls and global worksheet action filters allowing seamless dashboard cross-filtering on a click.
 
 ---
